@@ -7,3 +7,10 @@ def reverse(a):
         print(a%10)
         a//=10
 print(reverse(125478))
+def shavkat(a,b):
+    if a:
+        print("Hello")
+    if b:
+        print("Salom")
+    else:
+        print("None")
