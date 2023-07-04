@@ -14,3 +14,6 @@ def shavkat(a,b):
         print("Salom")
     else:
         print("None")
+
+def show_info(self):
+    
