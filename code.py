@@ -1,2 +1,2 @@
-something
-
+import os
+os.system("cls")
